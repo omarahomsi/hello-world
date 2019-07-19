@@ -12,3 +12,7 @@ BR
 
 Keep it up.
 
+
+Adding more text to try the diff / comparison feature
+
+
